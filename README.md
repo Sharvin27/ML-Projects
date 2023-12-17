@@ -7,6 +7,7 @@ Learning Machine Learning And Deep Learning with the help of building multiple p
 
 ## Topics
 
-- Classification
+- IRIS CLASSIFIER (CLASSIFICATION)
+- FAST API - BANK NOTES CLASSIFIER
    
    
